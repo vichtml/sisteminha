@@ -1,4 +1,4 @@
-O projeto Sisteminha é um exemplo de aplicação web desenvolvida em PHP com integração de banco de dados. A aplicação apresenta um código simples e prático, ideal para estudos de fundamentos de desenvolvimento back-end, especialmente focado em operações de CRUD (Create, Read, Update, Delete).
+O projeto "Sisteminha" é um exemplo de aplicação web desenvolvida em PHP com integração de banco de dados. A aplicação apresenta um código simples e prático, ideal para estudos de fundamentos de desenvolvimento back-end, especialmente focado em operações de CRUD (Create, Read, Update, Delete).
 
 Estrutura do Projeto:
 
